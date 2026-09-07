@@ -40,8 +40,8 @@ B.S. Mechanical Engineering
 *	Minor in Electrical and Computer Engineering - University of Oklahoma 2016
 
 **Work Experience:**
-
-*	2023-Current: Boeing - Systems Engineer, Avionics Systems Engineering Integration and Test (SEIT) Team Lead and Project Engineer
+*	2026-Current: Actalent - Systems Engineer, Flight Test Instrumentation and Factory Support
+*	2023-2026: Boeing - Systems Engineer, Avionics Systems Engineering Integration and Test (SEIT) Team Lead and Project Engineer
 *	2021-2023: Boeing - Systems Engineer, Project Engineer
 * 	2020-2021: Boeing - Systems Engineer, Integration and Test Lead
 *	2018-2020: Boeing - Systems Engineer, Interfaces
@@ -59,7 +59,6 @@ Each project listed below is accompanied with a brief overview of my game design
 
 ![Ultimate Prey Banner](/assets/ultimate_prey.png)
 
-[Gameplay and More for Ultimate Prey - Click Here](/ultimate_prey/)
 
 Ultimate Prey is a battle-royale meets party meets survival game. This game is intended to be played multiplayer with a single Host player acting as the lobby leader for Clients to connect to. The objective of the game is to find the key and escape the island filled with hunters and other threats. To do so, the players must use these threats against the other players and take advantage of the item chests that spawn across the map. Only one player can escape and be the winner.
 
@@ -76,9 +75,9 @@ Made with Unity, C#, Audacity, Mirror Networking for Unity, and a mix of free an
 
 ![Chick Game Banner](/assets/chick_game.png)
 
-[Gameplay and More for Chick Game - Click Here](/chick_game/)
+[Chick Game - Available on Steam](https://store.steampowered.com/app/3800580/Chick_Game/)
 
-Chick Game is an FPS where you play as a rooster who must care and tend to his hens and chicks during the day and defend the coop at night from waves of different predators. During the day time the player collects buffs to their damage, health, and move speed to aid them in their defense of the coop at night against raccoons, foxes, and other threats. The player is armed with a Rooster-grade shotgun and their own claws at night to defend the coop - if the predators reach the coop and attack it for too long, the flock begins to die and the game will be lost.
+Chick Game is a Boomer Shooter / FPS where you play as a rooster who must care and tend to his hens and chicks during the day and defend the coop at night from waves of different predators. During the day time the player collects buffs to their damage, health, and move speed to aid them in their defense of the coop at night against raccoons, foxes, and other threats. The player is armed with a Rooster-grade shotgun and their own claws at night to defend the coop - if the predators reach the coop and attack it for too long, the flock begins to die and the game will be lost.
 
 **Top 5 Skills and Lessons Learned:**
 *   Developing useful milestones and projects using GitHub
@@ -92,8 +91,6 @@ Made with Unity, C#, Audacity, Blender, and a mix of free and paid assets.
 ## Waifu Hunter 2077
 
 ![Waifu Hunter 2077 Banner](/assets/waifu_hunter_2077.png)
-
-[Gameplay and More for Waifu Hunter 2077 - Click Here](/waifu_hunter_2077/)
 
 Waifu Hunter 2077 was my first project in Unity and I jumped right in on a multiplayer PVE FPS game. It's a game where you and some friends load into a few levels and defeat waves of enemies. Thought not a very complicated game, multiplayer networking is extremely complicated compared to the typical subjects a new developer must tackle. The co-creator of this game also introduced me to Git which I learned so we could collaborate on this game. 
 
@@ -110,8 +107,6 @@ Made with Unity, C#, Mirror Networking for Unity, and all free assets.
 
 ![GG2 Banner](/assets/gg2.png)
 
-[Gameplay and More for GG2 - Click Here](/gg2/)
-
 GG2 is a top down dungeon crawler built to run in a web browser using HTML5. You play as a mage who must explore each level, collecting new abilities and upgrades, and defeat 3 main bosses to get to the final boss. This game was my final project using the GameMaker engine. If I spent just one day to work on an upgrade to this game it would be to scrap most of the enemies from each level and fix the monitor sync rate issue. This would let the cool bosses and systems of the game really shine. 
 
 **Top 5 Skills and Lessons Learned:**
@@ -126,8 +121,6 @@ Made with GameMaker, C++/GML, and a mix of hand-made and free assets.
 ## GG 
 
 ![GG Banner](/assets/gg.png)
-
-[Gameplay and More for GG - Click Here](/gg/)
 
 GG is a 2D side-scroller inspired by those frustrating flash game with stupid obstacles/puzzles and expectation for you to die, learn, repeat, and eventually win. It is my first complete video game  I made from start to finish. I made this game using GameMaker as a free and accessible engine and learned a lot about programming for game development using the C++ knock-off, GameMaker Language (GML). It was also my first experience mapping out the scope of a game including the number of levels, enemy types, objectives, mechanics, and more. I added Easter eggs and a game run timer and challenged my friends and family to be the first to find all the Easter eggs and have the fastest run by some determined date. I also asked them all for feedback on the game. I rewarded the winners with $10 Amazon cards which was a fun way to thank my friends and family for helping me improve as a game designer and developer. 
 
@@ -144,14 +137,16 @@ Made with GameMaker, C++/GML, and a mix of hand-made and free assets.
 
 ![Smaller Projects Banner](/assets/smaller_projects.png)
 
-[Gameplay and More for Smaller Projects - Click Here](/smaller_projects/)
+1.  **Spacey Launcher Game** - One of my early dives into Unity, I made this game as a shoutout to a sling-shot space launcher game I used to play back in computer lab during school
 
-1.  **GG3** - I wanted to make a short, well organized (no spaghetti code) platformer protoype and found all of the rough edges of GameMaker
-2.  **10 Clicks Red** - I made this quick reaction game in the passenger seat of a rental car while I was riding all over South Korea for a work trip
-3.  **Spacey Launcher Game** - One of my early dives into Unity, I made this game as a shoutout to a sling-shot space launcher game I used to play back in computer lab during school
-4.  **Don't Shoot the Princess** - This is was another Unity test project I made while on a trip to Texas visiting family. I wanted to handmake (literally) some assets so I drew out the background on a piece of paper to use for the game
-5.  **PAC-MAN Clone** - This is the first video game I ever made and it's a very poor PAC-MAN clone. I used the KISS (KIPR Instructional Software System) IDE from my computer programming class to submit this as my final project
-6.  **D&D Tool** - My friends and I had no supplies, little cash, and a lot of interest in learning D&D. So we googled away and I whipped up a tool comparable to a (very) budget Roll20 knock-off. 
+    [Link to Itch.Io](https://1chaaain.itch.io/spacey-launcher-game)
+    
+
+2.  **Don't Shoot the Princess** - This is was another Unity test project I made while on a trip to Texas visiting family. I wanted to handmake (literally) some assets so I drew out the background on a piece of paper to use for the game
+
+    [Link to Itch.Io](https://1chaaain.itch.io/dont-shoot-the-princess)
+
+
 
 ---
 
